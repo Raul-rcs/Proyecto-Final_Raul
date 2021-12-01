@@ -1,0 +1,50 @@
+div#contenedor{
+	background-color: white;
+	width: 1355px;
+	height: 2500px;
+	margin: -10px 0px -10px -10px;
+}
+div#encabezado{
+	background-color: white;
+	width: 1350px;
+	height: 100px;
+	border: 1px solid #939393;
+}
+div#menuP{
+	background-color: white;
+	width: 1000px;
+	height: 40px;
+	margin: -80px 0px 0px 350px;
+}
+div#logo{
+	background-color: white;
+	margin: -90px 0px 0px 30px;
+}
+nav a{
+    text-decoration:none;
+    color:inherit;
+    font-size:30px;
+    } 
+    nav li{
+    display:inline-block;
+    width:180px;
+    background-color: white;
+    border:1px solid white;
+    text-align:center;
+    color:#939393;
+    }
+    nav li:hover{
+    background-color: #D5D8DC;
+    color: black;
+    }
+
+div#presentacion{
+	background-color: inherit;
+	width: 1355px;
+	height: 700px;
+	margin: -2397px 0px 0px -10px;
+}
+
+
+	display: flex;
+	justify-content: center;
