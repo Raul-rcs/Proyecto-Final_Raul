@@ -40,35 +40,16 @@ nav a{
 div#presentacion{
 	background-color: inherit;
 	width: 1350px;
-	height: 1000px;
+	height: 688px;
 	margin: -1898px 0px 0px -10px;
 }
-div#Galeria»{
-	background-color: inherit;
-	width: 1350px;
-	height: 895px;
-	margin: -30px 0px 0px -10px;
-}
-img#galeriaTitulo{
-	margin: 0px 0px 0px 150px;
-}
-table#seccion1{
-	margin: 0px 0px 0px 120px;
-}
-table#seccion1{
-	width: 1130px;
-	height: 300px;
-	font-size: 70px;
-	}
-table#seccion2{
-	width: 1130px;
-	height: 300px;
-}
-table#seccion3{
-	width: 1130px;
-	height: 300px;
-}
-		div#footer{
+
+
+
+
+
+
+div#footer{
 			background-color: #B38867;
 			width: 1350px;
 			height: 200px;
@@ -89,12 +70,6 @@ table#seccion3{
 		color: #4B3621;
 		}
 		dt#titulos:hover{
-			color: white;
-		}
-		font#menu{
-		color: #4B3621;
-		}
-		font#menu:hover{
 			color: white;
 		}
 		div#contactos{
