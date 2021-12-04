@@ -1,7 +1,7 @@
 div#contenedor{
 	background-color: #CDCDC0;
 	width: 1350px;
-	height: 2000px;
+	height: 1000px;
 	margin: -10px 0px -10px -10px;
 }
 div#encabezado{
@@ -40,15 +40,34 @@ nav a{
 div#presentacion{
 	background-color: inherit;
 	width: 1350px;
-	height: 688px;
-	margin: -1898px 0px 0px -10px;
+	height: 691px;
+	margin: -898px 0px 0px -10px;
 }
 
-
-
-
-
-
+div#contenido{
+	background-color: #CDCDC0;
+	width: 1350px;
+	height: 500px;
+	margin: 0px 0px 0px -10px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+div#reservacion{
+	display: flex;
+	text-align: center;
+}
+div#horarioAtencion{
+	display: flex;
+	text-align: center;
+}
+dt#titulos1{
+	color: #4B3621;
+}
+dt#info{
+	color: #4B3621;
+}
 div#footer{
 			background-color: #B38867;
 			width: 1350px;
@@ -70,6 +89,12 @@ div#footer{
 		color: #4B3621;
 		}
 		dt#titulos:hover{
+			color: white;
+		}
+		font#menu{
+		color: #4B3621;
+		}
+		font#menu:hover{
 			color: white;
 		}
 		div#contactos{
