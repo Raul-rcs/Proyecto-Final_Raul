@@ -1,7 +1,7 @@
 div#contenedor{
 	background-color: #CDCDC0;
 	width: 1350px;
-	height: 2000px;
+	height: 4050px;
 	margin: -10px 0px -10px -10px;
 }
 div#encabezado{
@@ -41,12 +41,43 @@ div#presentacion{
 	background-color: inherit;
 	width: 1350px;
 	height: 688px;
-	margin: -1898px 0px 0px -10px;
+	margin: -3948px 0px 0px -10px;
 }
 
 
-
-
+div#Menu{
+	background-color: #CDCDC0;
+	width: 1350px;
+	display: flex;
+	justify-content: center;
+	margin: 40px 0px 0px -10px;
+}
+div#bebidas{
+	background-color: inherit;
+	width: 1350px;
+	display: flex;
+	justify-content: center;
+	margin: 40px 0px 0px -10px;
+}
+div#postres{
+	background-color: #CDCDC0;
+	width: 1350px;
+	display: flex;
+	justify-content: center;
+	margin: 40px 0px 20px -10px;
+}
+div#bebidasTitulo{
+	width: 1350px;
+	display: flex;
+	justify-content: center;
+	margin: 0px 0px 0px -10px;
+}
+div#postresTitulo{
+	width: 1350px;
+	display: flex;
+	justify-content: center;
+	margin: 0px 0px 0px -10px;
+}
 
 
 div#footer{
@@ -70,6 +101,12 @@ div#footer{
 		color: #4B3621;
 		}
 		dt#titulos:hover{
+			color: white;
+		}
+		font#menu1{
+		color: #4B3621;
+		}
+		font#menu1:hover{
 			color: white;
 		}
 		div#contactos{

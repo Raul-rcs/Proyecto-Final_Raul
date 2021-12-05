@@ -44,9 +44,9 @@ div#presentacion{
 	margin: -1898px 0px 0px -10px;
 }
 div#Galeria»{
-	background-color: inherit;
+	background-color: #CDCDC0;
 	width: 1350px;
-	height: 895px;
+	height: 1160px;
 	margin: -30px 0px 0px -10px;
 }
 img#galeriaTitulo{
@@ -65,6 +65,10 @@ table#seccion2{
 	height: 300px;
 }
 table#seccion3{
+	width: 1130px;
+	height: 300px;
+}
+table#seccion4{
 	width: 1130px;
 	height: 300px;
 }
