@@ -78,13 +78,22 @@ div#postresTitulo{
 	justify-content: center;
 	margin: 0px 0px 0px -10px;
 }
-
+div#paquetesTitulo{
+	width: 1350px;
+	background-color: #CDCDC0;
+	display: flex;
+	justify-content: center;
+	margin: 0px 0px 0px -10px;
+}
+div#paquetes{
+	margin: 0px 0px 0px -10px;
+}
 
 div#footer{
 			background-color: #B38867;
 			width: 1350px;
 			height: 200px;
-			margin: 0px 0px -10px -10px;
+			margin: -10px 0px -10px -10px;
 			display: flex;
 			align-items: center;
 		}
